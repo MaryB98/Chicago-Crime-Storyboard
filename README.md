@@ -23,5 +23,8 @@ Microsoft Excel: for initial data cleanup
 - Top 5 crimes
 - Dashboard navigation and storytelling
 
+#Tableau Public Link: [Crime Trends and Enforcement Patterns – Chicago 2025](https://public.tableau.com/views/ChicagoCrimeDashboard_17528008163760/CrimeTrendsandEnforcementPatternsChicagoCityOverview2025?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
 
 
