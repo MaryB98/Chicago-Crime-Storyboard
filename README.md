@@ -11,7 +11,8 @@ Microsoft Excel: for initial data cleanup
 
 `Chicago_Crime_Storyboard.twbx`: The Tableau workbook file
 `README.md`: Project summary and explanation
-`/images`: Folder with screenshots or dashboard visuals
+`Chicago_Crimes_cleaned.csv`: Clean Dataset
+`Chicago_Crimes_Tableau.ipynb`: Python code for cleaning the dataset
 
 ## Key Features of Dashboard
 - Crime map with density by time of day
