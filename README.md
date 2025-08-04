@@ -1,4 +1,4 @@
-# Tableau
+# Chicago Crime Analysis
 Chicago Crime Storyboard : Dashboard to analyze the crime patterns
 
 This project explores crime trends and enforcement patterns in Chicago using interactive dashboards built in Tableau. The goal is to help identify when and where crimes happen the most, how violent crimes differ from non-violent ones, and which times of day or week are more risky. The dashboard uses real-world data and lets users filter crimes by time, type, and arrest status.
